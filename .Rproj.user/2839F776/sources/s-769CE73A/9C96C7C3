@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1696973626226.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "267799197",
+    "id" : "9C96C7C3",
+    "lastKnownWriteTime" : 1696974150,
+    "last_content_update" : 1696974150387,
+    "path" : "~/Desktop/R/shiny_usarrests/datascript.R",
+    "project_path" : "datascript.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
